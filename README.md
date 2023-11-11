@@ -8,7 +8,7 @@
 - 🎒 Atualmente estou estudando HTML, CSS e JavaScript na Alura com foco no Front-End.
 - :books: Sou graduado em Análise e Desenvolvimento de Sistemas, pós-graduado em Redes de Computadores e Gestão da Tecnologia da Informação.
 - 📫 Como entrar em contato comigo: andre.duarte16@outlook.com
-- :star: Curiosidade : I love Tecnologia ❤️.
+- :star: Curiosidade : I love technology ❤️.
 
 ## :computer: Ferramentas e Tecnologias
 
