@@ -22,7 +22,7 @@
 <a href="https://www.linkedin.com/in/andr%C3%A9-duarte-0252b3257/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-
+<br>
 
 <div>
 <a href="https://github.com/andreduarte99">
@@ -30,7 +30,7 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=andreduarte99&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-
+<br>
 
 ![Snake animation](https://github.com/andreduarte99/andreduarte99/blob/output/github-contribution-grid-snake.svg)
 
