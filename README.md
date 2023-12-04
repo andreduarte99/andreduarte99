@@ -31,6 +31,6 @@
 
 
 
-<img src="https://github.com/andreduarte99/andreduarte99/assets/42449246/8b4a1e0d-2c3e-4f78-aaf7-9709717ab2a8)" width="500px" height="500px" />
+
 
 
